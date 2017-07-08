@@ -1,0 +1,32 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+  /*display: flex;*/
+}
+
+h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 4em;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  height: 200px;
+  background-color: gray:
+}
+
+li {
+  list-style: none;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 3em;
+}
+
+/*.clock {
+  display: flex;
+}
+
+.clock p {
+  justify-content: space-between;
+}*/
